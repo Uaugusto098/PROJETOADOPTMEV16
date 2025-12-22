@@ -1,1 +1,5 @@
+<<<<<<< HEAD
+# PROJETOADOPTMEV16
+=======
 # PROJETOADOPTME
+>>>>>>> db09d5377ef96be83bd9225bca4440b3ae8f9088
