@@ -68,11 +68,11 @@ O projeto foi modelado utilizando as melhores práticas de Engenharia de Softwar
 
 
  
-**Estrutura de Dados:** Diagrama de Classes de Entidade garantindo a integridade dos objetos persistentes.
+**Estrutura de Dados:** Diagrama de Classes de Entidade garantindo a integridade dos objetos.
 
 
  
-**Lógica de Interação:** Diagramas de Sequência detalhando a comunicação entre a interface (Visão) e o Banco de Dados.
+**Lógica de Interação:** Diagramas de Sequência detalhando a comunicação entre a interface e o Banco de Dados.
 
 
 
@@ -80,7 +80,7 @@ O projeto foi modelado utilizando as melhores práticas de Engenharia de Softwar
 
 ## 👥 Equipe
 
-Projeto desenvolvido por alunos da **Fatec Guarulhos** sob orientação da Profª Jane Maria dos Santos Eberson:
+Projeto desenvolvido por alunos da **Fatec Guarulhos** sob orientação da Profª Jane Maria:
 
 
 |  |**Análise e Requisitos** | Francislaine Joaquim, Guilherme Oliveira, João Vitor Reis.
